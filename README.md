@@ -1,21 +1,47 @@
 # Schedule It Your Way
 
+## Table of Contents
+
+* [Purpose](#purpose)
+* [Technologies](#technologies)
+* [Preview](#preview)
+* [Functionality](#functionality)
+* [Features](#features)
+* [License](#license)
+
+## Purpose
+
+The purpose of this project was to create a simple daily planner designed to help the user maximize efficienty and productivity through task scheduling during standard business hours.  
 
 
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+## Technologies
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+* HTML
+* CSS
+* JavaScript
+
+## Third-Party APIs/Libraries
+
+* jQuery
+* momentjs
+* Bootstrap
+* Font Awesome
+
+
+
+## Preview
+
+https://benkaan001.github.io/ScheduleItYourWay/ 
+
+
+![Screen Shot 2021-09-12 at 12 02 43 AM](https://user-images.githubusercontent.com/88162275/132972869-c2f21d5b-b901-4636-b711-a228d641a0e0.png)
+
+
+## Functionality
+
+*  The application displays the current date at the top of calendar. The time blocks represent the standard business hours from 9:00am till 5:00pm. Each time block is color-coded to help the user distinguish past,present, and future times of any given work day. When the user enters a task into a time block, the information gets stored in the user's browser's local storage. Hence, the input becomes persistent until the user clears out the local storage data. 
+
+
+## License
+
+MIT @ [Ben Ata Kaan](https://github.com/benkaan001)
