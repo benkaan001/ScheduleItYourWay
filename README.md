@@ -34,7 +34,7 @@ The purpose of this project was to create a simple daily planner designed to hel
 https://benkaan001.github.io/ScheduleItYourWay/ 
 
 
-![Screen Shot 2021-09-12 at 12 02 43 AM](https://user-images.githubusercontent.com/88162275/132972869-c2f21d5b-b901-4636-b711-a228d641a0e0.png)
+![Screen Shot 2021-09-12 at 3 18 07 PM](https://user-images.githubusercontent.com/88162275/133001611-139ecd03-98ed-46dd-b442-b2bc23207308.png)
 
 
 ## Functionality
